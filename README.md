@@ -1,7 +1,7 @@
 ## Artificial Neural Networks
 
 ## Description
-Designed, developed and trained differen AI models from classification to regression.
+Designed, developed and trained differen supervised AI models.
 
 ## Models
 
