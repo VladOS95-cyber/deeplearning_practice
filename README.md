@@ -1,7 +1,7 @@
 ## Artificial Neural Networks
 
 ## Description
-Designed, developed and trained differen supervised and unsupervised AI models.
+Designed, developed and trained differen supervised and unsupervised Deep Learning models.
 
 ## Models
 
