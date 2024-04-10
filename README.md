@@ -9,6 +9,7 @@ Designed, developed and trained differen supervised and unsupervised Deep Learni
 - convolutional_neural_network: Convolutional Neural Network model to apply pictures of cats and dogs and determine if new picture is cat or dog.
 - RNN_GoogleStockPrice: Recurrent Neural Network model to apply historical Google's stock data to predict new open price of the financial market day.
 - SOP_Fraud_Probabilities: Self Organizing Map + Artificial Neural Network models to apply bank's customers credit data to detect probabilities of fraud clients.
+- Boltzmann_Machine_MovieRecommendationSystem: Recommendation system built on Boltzmann_Machine model to predict if user likes a movie or not.
 
 Project author: Vladislav Bronzov
 
