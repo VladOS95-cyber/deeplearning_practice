@@ -10,6 +10,7 @@ Designed, developed and trained differen supervised and unsupervised Deep Learni
 - RNN_GoogleStockPrice: Recurrent Neural Network model to apply historical Google's stock data to predict new open price of the financial market day.
 - SOP_Fraud_Probabilities: Self Organizing Map + Artificial Neural Network models to apply bank's customers credit data to detect probabilities of fraud clients.
 - Boltzmann_Machine_MovieRecommendationSystem: Recommendation system built on Boltzmann_Machine model to predict if user likes a movie or not.
+- AutoEncoders_RecommendationSystem: Recommendation system built on Auto_Encoders model to predict how user rates a movie.
 
 Project author: Vladislav Bronzov
 
